@@ -1,0 +1,19 @@
+ID,Film clip,Target emotion,Valence Mean,Valence Std,Arousal Mean,Arousal Std,Dominance Mean,Dominance Std
+1,Searching for Bobby Fischer,calmness,3.17,0.72,2.26,0.75,2.09,0.73
+2,D.O.A.,surprise,3.04,0.88,3.00,1.00,2.70,0.88
+3,The Hangover,amusement,4.57,0.73,3.83,0.83,3.83,0.72
+4,The Ring,fear,2.04,1.02,4.26,0.69,4.13,0.87
+5,300,excitement,3.22,1.17,3.70,0.70,3.52,0.95
+6,National Lampoon's VanWilder,disgust,2.70,1.55,3.83,0.83,4.04,0.98
+7,Wall-E,happiness,4.52,0.59,3.91,0.98,3.57,0.99
+8,Crash,anger,1.35,0.65,3.96,0.77,4.35,0.65
+9,My Girl,sadness,1.39,0.66,3.00,1.09,3.48,0.95
+10,The Fly,disgust,2.17,1.15,3.30,1.02,3.61,0.89
+11,Pride and Prejudice,calmness,3.96,0.64,1.96,0.82,2.61,0.89
+12,Modern Times,amusement,3.96,0.56,2.61,0.89,2.70,0.82
+13,Remember the Titans,happiness,4.39,0.66,3.70,0.97,3.74,0.96
+14,Gentlemans Agreement,anger,2.35,0.65,2.22,0.85,2.39,0.72
+15,Psycho,fear,2.48,0.85,3.09,1.00,3.22,0.9
+16,The Bourne Identity,excitement,3.65,0.65,3.35,1.07,3.26,1.14
+17,The Shawshank Redemption,sadness,1.52,0.59,3.00,0.74,3.96,0.77
+18,The Departed,surprise,2.65,0.78,3.91,0.85,3.57,1.04
